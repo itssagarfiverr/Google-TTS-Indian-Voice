@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TTS Indian Voices",
+  "description": "A text-to-speech application powered by Gemini, featuring a selection of voices simulating Indian accents for various age and gender profiles, with customizable speaking styles.",
+  "requestFramePermissions": []
+}
